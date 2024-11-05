@@ -19,8 +19,7 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
-
-            - name: ACCELQ Github-A Connect
+    name: ACCELQ Github-A Connect
   # You may pin to the exact commit or the version.
   # uses: ravin-accelq/accelq-ci-github-actions@2686194162077054ea3d1f227dc8fb8b0d2eb3d5
   uses: ravin-accelq/accelq-ci-github-actions@v1.4
